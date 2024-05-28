@@ -1,5 +1,5 @@
-This project uses Tkinter for the GUI, and Naive Bayes Classification to cllassify given messages as spam or ham.
-The following are scrrengrabs from the program execution
+This project uses Tkinter for the GUI, and Naive Bayes Classification to classify given messages as spam or ham.
+The following are screengrabs from the program execution
 
 
 ![ham](https://github.com/maushmirajesh/Nissan-Industrial-Elective-Microproject/assets/171074598/a64085a9-0040-4843-9ea0-b19b5503f237)
